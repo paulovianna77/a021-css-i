@@ -1,0 +1,27 @@
+ article {
+margin:7px 80vw 13px 0;
+padding:5px;
+line-height: 1px;
+color:white;
+} 
+main{
+    font-family: 'Helvetica';
+}
+
+#bloco-1 {
+    background-color: #f7924b;
+    border: 5px solid #ffc48d
+}   
+#bloco-2{
+    background-color: #328732;
+    border: 5px solid #50a480
+}
+#bloco-3{
+    background-color: #0e300e;
+    border: 5px dashed #50a480;
+    
+}
+#bloco-4{
+    background-color: #d63636;
+    border: 5px dashed #e5a1a0
+}
